@@ -1,2 +1,2 @@
-# skandavaidyanath.github.io
+# kishorekumaar.github.io
 Personal website 
